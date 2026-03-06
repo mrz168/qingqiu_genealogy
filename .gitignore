@@ -30,3 +30,5 @@ media/workflow_pdfs/
 unpackage/
 backups/
 logs/
+_bmad/
+.cursor/
